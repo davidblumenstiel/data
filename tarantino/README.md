@@ -11,3 +11,5 @@ Header | Definition
 
 
 Source: Author’s tally
+
+Downloaded from https://data.fivethirtyeight.com/
